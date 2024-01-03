@@ -1,18 +1,30 @@
 ﻿@page "/counter"
 
-<PageTitle>Counter</PageTitle>
+<style>
+    body, html {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        height: 100%;
+    }
 
-<h1>Counter</h1>
+    .fancy-background {
+        background-image: linear-gradient(to right, #5FBDFF, #96EFFF);
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #ffffff;
+        font-size: 24px;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+</style>
 
-<p role="status">Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<div class="fancy-background">
+    
+</div>
 
 @code {
-    private int currentCount = 0;
-
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
+   
 }

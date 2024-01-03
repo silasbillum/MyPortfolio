@@ -1,0 +1,31 @@
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\bin\Debug\net6.0\appsettings.json
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\bin\Debug\net6.0\My portfolio.staticwebassets.runtime.json
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\bin\Debug\net6.0\My portfolio.exe
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\bin\Debug\net6.0\My portfolio.deps.json
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\bin\Debug\net6.0\My portfolio.runtimeconfig.json
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\bin\Debug\net6.0\My portfolio.dll
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\bin\Debug\net6.0\My portfolio.pdb
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.AssemblyInfoInputs.cache
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.AssemblyInfo.cs
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.csproj.CoreCompileInputs.cache
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.RazorAssemblyInfo.cache
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.RazorAssemblyInfo.cs
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\staticwebassets\msbuild.My portfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.My portfolio.props
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.My portfolio.props
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.My portfolio.props
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\scopedcss\bundle\My portfolio.styles.css
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\scopedcss\projectbundle\My portfolio.bundle.scp.css
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.dll
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\refint\My portfolio.dll
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.pdb
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.genruntimeconfig.cache
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\ref\My portfolio.dll

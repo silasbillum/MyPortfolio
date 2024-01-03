@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\My portfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\My portfolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\emma.jpg",
+      "PackagePath": "staticwebassets\\Images\\emma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\port7.jpg",
+      "PackagePath": "staticwebassets\\Images\\port7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\silas.jpg",
+      "PackagePath": "staticwebassets\\Images\\silas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\siles.png",
+      "PackagePath": "staticwebassets\\Images\\siles.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.My portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.My portfolio.props",
+      "PackagePath": "build\\My portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.My portfolio.props",
+      "PackagePath": "buildMultiTargeting\\My portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.My portfolio.props",
+      "PackagePath": "buildTransitive\\My portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

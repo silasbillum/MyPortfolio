@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sila1400\\source\\repos\\My portfolio\\My portfolio\\My portfolio.csproj": {}
+    "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\My portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sila1400\\source\\repos\\My portfolio\\My portfolio\\My portfolio.csproj": {
+    "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\My portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sila1400\\source\\repos\\My portfolio\\My portfolio\\My portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\My portfolio.csproj",
         "projectName": "My portfolio",
-        "projectPath": "C:\\Users\\sila1400\\source\\repos\\My portfolio\\My portfolio\\My portfolio.csproj",
+        "projectPath": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\My portfolio.csproj",
         "packagesPath": "C:\\Users\\sila1400\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sila1400\\source\\repos\\My portfolio\\My portfolio\\obj\\",
+        "outputPath": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sila1400\\AppData\\Roaming\\NuGet\\NuGet.Config",
