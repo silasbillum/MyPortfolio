@@ -1,7 +1,39 @@
 ﻿@page "/AboutMe"
 
 <h3>AboutMe</h3>
+<div class="box">
+    <div class="leftBox">
+        <p>Text</p>
+    </div>
+    <div class="rightBox">
+        <p>Text</p>
+    </div>
+</div>
 
+<style>
+    .box{
+        display: flex;
+    }
+    .leftBox{
+        background: orange;
+        flex-direction: column;
+        width: 45%;
+        height: 726px;
+        
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 3%;
+    }
+    .rightBox{
+        background: orange;
+        flex-direction: column;
+        width: 45%;
+        height: 726px;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 3%;
+    }
+</style>
 @code {
 
 }
