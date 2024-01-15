@@ -29,3 +29,4 @@ C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\ref
 C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.pdb
 C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\My portfolio.genruntimeconfig.cache
 C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\ref\My portfolio.dll
+C:\Users\sila1400\Documents\GitHub\MyPortfolio\My portfolio\obj\Debug\net6.0\scopedcss\Pages\Home.razor.rz.scp.css

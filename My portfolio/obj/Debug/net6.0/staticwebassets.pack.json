@@ -5,12 +5,36 @@
       "PackagePath": "staticwebassets\\My portfolio.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\emma.jpg",
-      "PackagePath": "staticwebassets\\Images\\emma.jpg"
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\books.jpg",
+      "PackagePath": "staticwebassets\\Images\\books.jpg"
     },
     {
-      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\port7.jpg",
-      "PackagePath": "staticwebassets\\Images\\port7.jpg"
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\books1.png",
+      "PackagePath": "staticwebassets\\Images\\books1.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\fg.png",
+      "PackagePath": "staticwebassets\\Images\\fg.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\github.jpg",
+      "PackagePath": "staticwebassets\\Images\\github.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\gm.png",
+      "PackagePath": "staticwebassets\\Images\\gm.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\kat.jpg",
+      "PackagePath": "staticwebassets\\Images\\kat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\port1.jpg",
+      "PackagePath": "staticwebassets\\Images\\port1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\sil.jpg",
+      "PackagePath": "staticwebassets\\Images\\sil.jpg"
     },
     {
       "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\silas.jpg",
@@ -19,6 +43,10 @@
     {
       "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\siles.png",
       "PackagePath": "staticwebassets\\Images\\siles.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\th.jpg",
+      "PackagePath": "staticwebassets\\Images\\th.jpg"
     },
     {
       "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\bootstrap\\bootstrap.min.css",

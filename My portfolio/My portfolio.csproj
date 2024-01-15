@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\Images\port7.jpg" />
     <None Include="wwwroot\Images\silas.jpg" />
   </ItemGroup>
 
