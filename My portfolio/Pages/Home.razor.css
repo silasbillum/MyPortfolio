@@ -179,8 +179,8 @@ section .title {
 
         .navbar .menu li a {
             display: block;
-            color: #fff;
-            font-size: 18px;
+            color: red;
+            font-size: 28px;
             font-weight: 500;
             margin-left: 25px;
             transition: color 0.3s ease;

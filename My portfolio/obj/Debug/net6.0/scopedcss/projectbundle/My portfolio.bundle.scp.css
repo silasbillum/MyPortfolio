@@ -180,8 +180,8 @@ section .title[b-2ux9gt4yec] {
 
         .navbar .menu li a[b-2ux9gt4yec] {
             display: block;
-            color: #fff;
-            font-size: 18px;
+            color: red;
+            font-size: 28px;
             font-weight: 500;
             margin-left: 25px;
             transition: color 0.3s ease;
@@ -890,6 +890,28 @@ main[b-xpofsryq5w] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+    .page[b-xpofsryq5w] {
+        background: linear-gradient(#1a1a1a, #3f51b5, #ff4081); /* Example colors: green to blue */
+        background-size: 500% 500%;
+        animation: gradientAnimation-b-xpofsryq5w 10s ease infinite;
+        color: #fff;
+        font-family: Arial, sans-serif;
+    }
+
+    @keyframes gradientAnimation-b-xpofsryq5w {
+        0% {
+            background-position: 0% 50%;
+        }
+
+        50% {
+            background-position: 100% 50%;
+        }
+
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+   
 }
 /* _content/My portfolio/Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-tc98adhr59] {

@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="Pages\script.js" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\Images\silas.jpg" />
   </ItemGroup>
 
