@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Of6+9eYHJaDt9EXHm42Izm6SXrvMG/GJ4GDsbe5dlVY=",
+  "Hash": "8ammhaCo+FrXZahIye4eXTzoUhxdWCt/C1TBInoNcGU=",
   "Source": "My portfolio",
   "BasePath": "_content/My portfolio",
   "Mode": "Default",
@@ -255,6 +255,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\cv2.pdf",
+      "SourceId": "My portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\",
+      "BasePath": "_content/My portfolio",
+      "RelativePath": "cv2.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cv2.pdf"
+    },
+    {
       "Identity": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\favicon.ico",
       "SourceId": "My portfolio",
       "SourceType": "Discovered",
@@ -457,6 +474,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\th.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\script.js",
+      "SourceId": "My portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\",
+      "BasePath": "_content/My portfolio",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
     }
   ]
 }

@@ -8,11 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="Pages\script.js" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <None Include="wwwroot\cv2.pdf" />
     <None Include="wwwroot\Images\silas.jpg" />
+    <None Include="wwwroot\script.js" />
   </ItemGroup>
 
 </Project>
