@@ -42,9 +42,7 @@ $(document).ready(function () {
                     case "C++":
                         image = "C++";
                         break;
-                    case "Makefile":
-                        image = "MakeFile";
-                        break;
+                   
                     case null:
                         console.log("NOLANGO");
                         image = "NOLANGO";

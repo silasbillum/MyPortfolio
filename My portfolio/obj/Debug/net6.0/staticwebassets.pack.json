@@ -5,6 +5,30 @@
       "PackagePath": "staticwebassets\\My portfolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\C++.png",
+      "PackagePath": "staticwebassets\\Images\\C++.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\CSHARP.png",
+      "PackagePath": "staticwebassets\\Images\\CSHARP.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\CSS.png",
+      "PackagePath": "staticwebassets\\Images\\CSS.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\HTML.png",
+      "PackagePath": "staticwebassets\\Images\\HTML.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\MakeFile.png",
+      "PackagePath": "staticwebassets\\Images\\MakeFile.png"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\PHP.png",
+      "PackagePath": "staticwebassets\\Images\\PHP.png"
+    },
+    {
       "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\books.jpg",
       "PackagePath": "staticwebassets\\Images\\books.jpg"
     },
@@ -47,6 +71,10 @@
     {
       "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\Images\\th.jpg",
       "PackagePath": "staticwebassets\\Images\\th.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\books.jpg",
+      "PackagePath": "staticwebassets\\books.jpg"
     },
     {
       "Id": "C:\\Users\\sila1400\\Documents\\GitHub\\MyPortfolio\\My portfolio\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
