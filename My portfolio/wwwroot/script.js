@@ -8,15 +8,13 @@ function scrollToSection() {
     var targetSection = document.getElementById('contact');
     targetSection.scrollIntoView({ behavior: 'smooth' });
 }
-// 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
 
-//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
 
 
 
 $(document).ready(function () {
     let request = new XMLHttpRequest();
-    let githubToken = "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";
+    let githubToken = "";
     request.open("GET", "https://api.github.com/user/repos");
     request.setRequestHeader("Authorization", "Bearer " + githubToken);
 
@@ -77,7 +75,7 @@ $(document).ready(function () {
 
             $(".owl-carousel").owlCarousel({
                 center: false,
-                items: 20,
+                items: 10,
                 loop: true,
                 margin: 0,
                 dots: false,
