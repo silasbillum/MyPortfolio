@@ -10,13 +10,16 @@ function scrollToSection() {
 }
 // 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
 
+//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
+
 
 
 $(document).ready(function () {
     let request = new XMLHttpRequest();
-    let githubToken = "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";
+    let githubToken = "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";
     request.open("GET", "https://api.github.com/user/repos");
-   request.setRequestHeader("Authorization", "Bearer " + githubToken);
+    request.setRequestHeader("Authorization", "Bearer " + githubToken);
+
     request.send();
     request.onload = () => {
         if (request.status == 200) {
@@ -62,9 +65,9 @@ $(document).ready(function () {
                         <div style="inline-size: 110px;overflow-wrap: break-word;">
                             <p>${repo.name}</p>
                         </div>
-                        <div style="width:110px;display:flex;justify-content:center;position:absolute;bottom:18px;">
+                        <div style="width:110px;display:flex;justify-content:center;">
                             <form action="${repo.html_url}" target="_blank">
-                                <button class="button-design" type="submit" style="height:28px;width:80px !important;font-size:12px;">Repo</button>
+                                <button class="button-design" type="submit" style=" height:28px;width:80px !important;font-size:12px;">Repo</button>
                             </form>
                         </div>
                     </div>
@@ -74,7 +77,7 @@ $(document).ready(function () {
 
             $(".owl-carousel").owlCarousel({
                 center: false,
-                items: 2,
+                items: 20,
                 loop: true,
                 margin: 0,
                 dots: false,
@@ -138,6 +141,21 @@ $(document).ready(function () {
         $('.menu-btn i').toggleClass("active");
 
     });
+    $(document).ready(function () {
+        $('a[href^="#"]').on('click', function (e) {
+            e.preventDefault();
+
+            var target = this.hash;
+            var $target = $(target);
+
+            $('html, body').stop().animate({
+                'scrollTop': $target.offset().top
+            }, 1, 'swing', function () {
+                window.location.hash = target;
+            });
+        });
+    });
+
 
     // Open mailer with data
    

@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Silas Mikkelsen - Portfolie</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Home.razor.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.1.0/typed.umd.min.js"></script>
@@ -28,7 +28,7 @@
                 <li><a href="/Uddannelse" class="menu-btn">Uddannelse</a></li>
                 <li><a href="/Experience" class="menu-btn">Work</a></li>
                 <li><a href="#contact" class="menu-btn">Contact</a></li>
-                <button onclick="scrollToSection()">Go to Section</button>
+                
 
                 
             </ul>
@@ -47,6 +47,7 @@
                 <div class="text-2">Silas Houlberg Mikkelsen</div>
                 <div class="text-3">And I am a <span class="typing"></span></div>
                 <a href="#contact">Contact me</a>
+                
             </div>
         </div>
     </section>
@@ -61,9 +62,9 @@
                 </div>
                 <div class="column right">
                     <div class="text">I'm Silas and I'm a <span class="typing-2"></span></div>
-                    <p>I started programming back in 2022, and have been at it ever since. i've worked on several projects all from booking systems, to shopping systems used to ordering food. This portfolie here will give a little insight to projects I have worked on in my spare time, since i can't show what i've made for customers. I would say im generally very open and welcoming to new people, as for work enthusiasm, i tend to go very deep with what im working on, since i like to get and understanding of how everything works.</p>
+                    <p>I started programming back in 2022, and have been at it ever since. i've worked on several projects all from games, to websites like this portfolie. This portfolie here will give a little insight to projects I have worked on in my spare time, since i can't show what i've made for customers. I would say im generally very open and welcoming to new people, as for work enthusiasm, i tend to go very deep with what im working on, since i like to get and understanding of how everything works.</p>
                     <a href="cv2.pdf" download="cv2.pdf">Download CV (PDF)</a>
-                    <a href="Data/CV.docx" download="CV.docx">Download CV (DOCX)</a>
+                   
 
 
 
@@ -93,30 +94,37 @@
                     <div class="bars">
                         <div class="info">
                             <span>JavaScript</span>
-                            <span>60%</span>
+                            <span>50%</span>
                         </div>
                         <div class="line js"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
                             <span>C#</span>
-                            <span>80%</span>
+                            <span>70%</span>
                         </div>
                         <div class="line cSharp"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
-                            <span>PHP</span>
-                            <span>80%</span>
+                            <span>Blazor</span>
+                            <span>70%</span>
                         </div>
                         <div class="line php"></div>
                     </div>
                     <div class="bars">
                         <div class="info">
                             <span>MySQL</span>
-                            <span>70%</span>
+                            <span>60%</span>
                         </div>
                         <div class="line mysql"></div>
+                    </div>
+                    <div class="bars">
+                        <div class="info">
+                            <span>C++</span>
+                            <span>70%</span>
+                        </div>
+                        <div class="line Cplusplus"></div>
                     </div>
                 </div>
             </div>
@@ -187,10 +195,7 @@
                                 var message = document.getElementById('message').value;
                                 window.location.href = 'mailto:stilhofsvej46@gmail.com?subject=' + sender_name + ' || ' + subject + '&body=' + message;
                             });
-                            function scrollToSection() {
-                                var targetSection = document.getElementById('contact');
-                                targetSection.scrollIntoView({ behavior: 'smooth' });
-                            }
+                            
 
                         </script>
 

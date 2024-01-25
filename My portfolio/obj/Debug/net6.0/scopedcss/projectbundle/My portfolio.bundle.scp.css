@@ -180,7 +180,7 @@ section .title[b-2ux9gt4yec] {
 
         .navbar .menu li a[b-2ux9gt4yec] {
             display: block;
-            color: red;
+            
             font-size: 28px;
             font-weight: 500;
             margin-left: 25px;
@@ -427,18 +427,21 @@ section .title[b-2ux9gt4yec] {
 }
 
 .skills-content .right .js[b-2ux9gt4yec]::before {
-    width: 60%;
+    width: 50%;
 }
 
 .skills-content .right .cSharp[b-2ux9gt4yec]::before {
-    width: 80%;
+    width: 70%;
 }
 
 .skills-content .right .php[b-2ux9gt4yec]::before {
-    width: 80%;
+    width: 70%;
 }
 
 .skills-content .right .mysql[b-2ux9gt4yec]::before {
+    width: 60%;
+}
+.skills-content .right .Cplusplus[b-2ux9gt4yec]::before {
     width: 70%;
 }
 
