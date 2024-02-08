@@ -1,13 +1,4 @@
-﻿document.getElementById('openMailButton').addEventListener('click', function () {
-    var sender_name = document.getElementById('sender_name').value;
-    var subject = document.getElementById('subject').value;
-    var message = document.getElementById('message').value;
-    window.location.href = 'mailto:stilhofsvej46@gmail.com?subject=' + sender_name + ' || ' + subject + '&body=' + message;
-});
-function scrollToSection() {
-    var targetSection = document.getElementById('contact');
-    targetSection.scrollIntoView({ behavior: 'smooth' });
-}
+﻿
 
 
 
@@ -28,9 +19,8 @@ $(document).ready(function () {
                 let image = "";
                 console.log(repo.language);
                 switch (repo.language) {
-                    case "PHP":
-                        image = "PHP";
-                        break;
+                    
+                       
                     case "C#":
                         image = "CSHARP";
                         break;
@@ -54,8 +44,8 @@ $(document).ready(function () {
                 document.getElementById("worktable").innerHTML +=
                     `
                 <div class="work-item"">
-                    <div class="container">
-                    <div style="height:150px;">
+                   // <div class="container">
+                    <div style="height:100px;">
                         <div >
                             <img src="Images/${image}.png" style="max-width:90px;" alt="Main coding language">
                         </div>
@@ -75,7 +65,7 @@ $(document).ready(function () {
 
             $(".owl-carousel").owlCarousel({
                 center: false,
-                items: 10,
+                items: 2,
                 loop: true,
                 margin: 0,
                 dots: false,
@@ -152,6 +142,12 @@ $(document).ready(function () {
                 window.location.hash = target;
             });
         });
+        document.getElementById('openMailButton').addEventListener('click', function () {
+            var sender_name = document.getElementById('sender_name').value;
+            var subject = document.getElementById('subject').value;
+            var message = document.getElementById('message').value;
+            window.location.href = 'mailto:stilhofsvej46@gmail.com?subject=' + sender_name + ' || ' + subject + '&body=' + message;
+        });
     });
 
 
@@ -176,4 +172,9 @@ $(document).ready(function () {
         loop: true
 
     });
+    
+    function scrollToSection() {
+        var targetSection = document.getElementById('contact');
+        targetSection.scrollIntoView({ behavior: 'smooth' });
+    }
 });
